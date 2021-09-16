@@ -1,0 +1,47 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    display: flex;
+    justify-content: flex-start;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.header {
+  padding: 10px;
+  margin: 10px;
+  flex: 2;
+  justify-content: flex-start;
+  margin-bottom: : 1000px;
+}
+
+
+img {
+    border-radius: 150px
+}
+
+.pro_ph {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 100px;
+  padding-bottom: 400px;
+}
+
+
+li {
+    margin: 10px
+    font-style: italic;
+}
+
+#s1 {
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freepptbackground.com%2Fwp-content%2Fuploads%2F2016%2F01%2Ftravel_wallpaper.jpg&f=1&nofb=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px 0;
+}
+
+.link {
+        font-weight: bold;
+        text-decoration: none;
+  }
